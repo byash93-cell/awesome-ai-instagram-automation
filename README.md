@@ -2,7 +2,7 @@
 
 A curated list of **free and open-source tools** for running an AI-powered Instagram page: making reels, AI voices, captions, design, scheduling and analytics. Maintained by [@theautomatewith.ai](https://www.instagram.com/theautomatewith.ai/).
 
-> Want the full step-by-step system? **[The Instagram Growth Machine: Run an AI Instagram Page on Autopilot in 10 Easy Steps](https://byash93-cell.github.io/theautomatewithai/?utm_source=github&utm_medium=awesome)** ($10 guide).
+> Want the full step-by-step system? **[The Instagram Growth Machine: Run an AI Instagram Page on Autopilot in 10 Easy Steps](https://byash93-cell.github.io/theautomatewithai/?utm_source=github&utm_medium=awesome)** ($10 guide). New here? Grab the [free 3 AI Automations sample](https://automateai70.gumroad.com/l/vtnjv) first.
 
 ## Contents
 - [Video editing and motion](#video-editing-and-motion)
