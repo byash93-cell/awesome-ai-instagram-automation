@@ -47,6 +47,7 @@ A curated list of **free and open-source tools** for running an AI-powered Insta
 ## Trend research
 - [PRAW](https://github.com/praw-dev/praw) - Official-API Python client to track rising posts on AI subreddits.
 - [Hacker News API](https://github.com/HackerNews/API) - Free official API for spotting AI tools as they take off.
+- [IGDataHub hashtag search](https://igdatahub.com/?tool=hashtag) - Free Instagram hashtag lookup: popular posts under a tag, video play counts, related keywords and total post volume.
 
 ## Website and SEO
 - [Astro](https://github.com/withastro/astro) - Fast static sites that score well on Core Web Vitals.
